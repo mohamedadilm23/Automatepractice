@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.loa.dataproviders.Datadrivenframeworkapachie">
+      <class name="amazonprojetcs.Searchthelogin">
         <methods>
-          <include name="main"/>
+          <include name="amazonSearch"/>
         </methods>
-      </class> <!-- com.loa.dataproviders.Datadrivenframeworkapachie -->
+      </class> <!-- amazonprojetcs.Searchthelogin -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
